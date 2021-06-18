@@ -1,0 +1,86 @@
+Loading options...
+loaded params/tot params:24/24
+miss matched params:[]
+num_test_data:3986
+-----------------------------------------------------------------------------------------------------
+predict                                           |                                             truth
+-----------------------------------------------------------------------------------------------------
+BIN RED AT J EIGHT PLEASE                         |                         BIN RED IN Z EIGHT PLEASE
+LAY WHITE IN I ONE AGAIN                          |                          LAY WHITE IN L ONE AGAIN
+PLACE RED IT H ONE AGAIN                          |                          PLACE RED AT X ONE AGAIN
+PLACE BLUE AT I FIVE SOON                         |                         PLACE BLUE AT I FIVE SOON
+BIN GREEN IN L FOUR NOW                           |                           BIN GREEN AT N FOUR NOW
+PLACE RED BY A ZERO SOON                          |                       PLACE GREEN BY K SEVEN SOON
+LAY GREEN WITH Y EIGHT PLEASE                     |                     LAY GREEN WITH M EIGHT PLEASE
+PLACE WHITE WITH U EIGHT NOW                      |                      PLACE WHITE WITH Q EIGHT NOW
+BIN WHITE WITH P SIX PLEASE                       |                       BIN GREEN WITH B SIX PLEASE
+LAY GREEN WITH G THREE AGAIN                      |                      LAY GREEN WITH T THREE AGAIN
+-----------------------------------------------------------------------------------------------------
+test_iter=0,eta=0.34020655155181884,wer=0.21874999999999997,cer=0.10801341132191332
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+predict                                           |                                             truth
+-----------------------------------------------------------------------------------------------------
+SET GREEN BY G SIX NOW                            |                            SET GREEN BY C SIX NOW
+SET BLUE IN E TWO PLEASE                          |                          SET BLUE IN A TWO PLEASE
+SET BLUE IN R ONE SOON                            |                          SET BLUE WITH O ONE SOON
+LAY GREEN AT M ZERO PLEASE                        |                        LAY GREEN AT M ZERO PLEASE
+SET GREEN IN B NINE SOON                          |                          SET GREEN IN B NINE SOON
+SET WHITE IN U THREE SOON                         |                           SET RED AT U THREE SOON
+PLACE WHITE WITH D FOUR NOW                       |                       PLACE WHITE WITH K FOUR NOW
+LAY WHITE BY J ZERO PLEASE                        |                          LAY RED BY Z ZERO PLEASE
+BIN BLUE BY M TWO PLEASE                          |                          BIN BLUE BY M TWO PLEASE
+SET WHITE AT V ONE AGAIN                          |                          SET WHITE AT V ONE AGAIN
+-----------------------------------------------------------------------------------------------------
+test_iter=10,eta=0.09562842879632506,wer=0.21180555555555555,cer=0.11629444313522178
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+predict                                           |                                             truth
+-----------------------------------------------------------------------------------------------------
+LAY WHITE WITH Q FOUR SOON                        |                        LAY WHITE WITH Q FOUR SOON
+LAY BLUE IN H SEVEN PLEASE                        |                        LAY BLUE IN H SEVEN PLEASE
+BIN GREEN IN K TINE NON                           |                           BIN GREEN AT E NINE NOW
+BIN WHITE AT K SEVEN NOW                          |                          BIN WHITE AT K SEVEN NOW
+BIN GREEN AT R SEVEN NOW                          |                          BIN GREEN AT R SEVEN NOW
+PLACE GREEN WITH I NINE NOW                       |                       PLACE GREEN WITH I NINE NOW
+BIN BLUE WITH K FOUR SOON                         |                         BIN BLUE WITH K FOUR SOON
+SET GREEN IN G FIVE NOW                           |                           SET GREEN AT G FIVE NOW
+PLACE BLUE BY G NINE PLEASE                       |                       PLACE BLUE BY G NINE PLEASE
+SET GREEN AT A TWO SOON                           |                           SET GREEN AT A TWO SOON
+-----------------------------------------------------------------------------------------------------
+test_iter=20,eta=0.06073179482152222,wer=0.14318783068783067,cer=0.07965807277848887
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+predict                                           |                                             truth
+-----------------------------------------------------------------------------------------------------
+BIN RED WITH R FIVE NOW                           |                           BIN RED WITH R FIVE NOW
+PLACE GREEN AT B FIVE NOW                         |                         PLACE GREEN IN B FIVE NOW
+BIN GREEN WITH M FOUR SOON                        |                        BIN GREEN WITH M FOUR SOON
+PLACE RED AT I TWO AGAIN                          |                        PLACE GREEN IN I TWO AGAIN
+LAY RED IN J ZERO NOW                             |                           LAY RED AT J ZERO AGAIN
+BIN BLUE AT M FOUR AGAIN                          |                          BIN BLUE IN X FOUR AGAIN
+LAY RED AT I SEVEN NOW                            |                            LAY RED AT I SEVEN NOW
+PLACE GREEN IN O SIX AGAIN                        |                        PLACE GREEN IN O SIX AGAIN
+LAY GREEN BY E TWO AGAIN                          |                          LAY GREEN BY E TWO AGAIN
+BIN RED WITH F ZERO AGAIN                         |                         BIN RED WITH F ZERO AGAIN
+-----------------------------------------------------------------------------------------------------
+test_iter=30,eta=0.032584626238833195,wer=0.1356966845878136,cer=0.07426941410860798
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+predict                                           |                                             truth
+-----------------------------------------------------------------------------------------------------
+SET RED BY H EIGHT SOON                           |                           SET RED BY H EIGHT SOON
+PLACE BLUE AT O SIN NOW                           |                         PLACE BLUE AT O SEVEN NOW
+LAY BLUE AT N SEVEN NOW                           |                           LAY BLUE AT X SEVEN NOW
+SET BLUE AT E SIX AGAIN                           |                           SET BLUE AT A SIX AGAIN
+SET GREEN IN G TWO AGAIN                          |                       SET GREEN IN O SEVEN PLEASE
+PLACE BLUE IN U NINE PLEASE                       |                       PLACE BLUE IN U NINE PLEASE
+LAY RED IN U FIVE NOW                             |                             LAY RED IN Q FIVE NOW
+BIN RED IN X SEVEN PLEASE                         |                         BIN RED AT S SEVEN PLEASE
+LAY WHITE IN D EIGHT SOON                         |                         LAY WHITE AT E EIGHT SOON
+PLACE RED BY Q ZERO AGAIN                         |                         PLACE RED BY Q ZERO AGAIN
+-----------------------------------------------------------------------------------------------------
+test_iter=40,eta=0.0048107114103105334,wer=0.13338414634146342,cer=0.06831221713879539
+-----------------------------------------------------------------------------------------------------
+done
+loss: 0.445629, wer: 0.133258, cer: 0.067965
